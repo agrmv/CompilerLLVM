@@ -12,5 +12,4 @@ int main() {
 /*
  * TODO:
  *  автотесты
- *  cmake
  */
